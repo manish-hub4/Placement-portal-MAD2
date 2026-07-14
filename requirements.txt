@@ -1,0 +1,15 @@
+Flask
+flask-restful
+Flask-SQLAlchemy
+Flask-Security-Too
+Flask-JWT-Extended
+Flask-CORS
+Flask-Mail
+Flask-Caching
+Werkzeug
+celery[redis]
+redis
+python-dotenv
+reportlab
+setuptools
+argon2_cffi
